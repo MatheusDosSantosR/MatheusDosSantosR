@@ -7,7 +7,7 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://matheusqa.tech](https://matheusqa.tech)
 
-- 📫 How to reach me **matheus2050@gmail.com**
+- 📫 Meu e-mail **matheus2050@gmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
