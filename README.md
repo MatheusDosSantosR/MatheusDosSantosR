@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, me chamo Matheus</h1>
-<h3 align="center">Um QA do Brasil</h3>
+<h1 align="center">👋Olá, me chamo Matheus</h1>
+<h3 align="center">Sou um QA de Goiás/Brasil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheusdossantosr&label=Profile%20views&color=000000&style=plastic" alt="matheusdossantosr" /> </p>
 
