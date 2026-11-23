@@ -66,10 +66,11 @@
 
 | Project | What It Solves | Stack | Status |
 | :--- | :--- | :--- | :---: |
-| **[AI Evals CI/CD Pipeline](#)** | Automated LLM quality gates & hallucination checks on every PR | `TypeScript` `Promptfoo` `GitHub Actions` | ![In Progress](https://img.shields.io/badge/In%20Progress-yellow?style=flat-square) |
-| **[Self-Healing E2E + MCP](#)** | Playwright suite with AI selector recovery & MCP tool automation | `Playwright` `TypeScript` `MCP` `Docker` | ![Planned](https://img.shields.io/badge/Next-blue?style=flat-square) |
-| **[API Performance Lab](#)** | Load, stress & spike testing with p95/p99 bottleneck analysis | `K6` `Grafana` `Node.js` `Docker` | ![Planned](https://img.shields.io/badge/Next-blue?style=flat-square) |
-| **[RevenuePro Backend](https://github.com/MatheusDosSantosR/RevenuePro-Backend)** | Backend architecture and automated API validation | `Node.js` `TypeScript` `Express` | ![Live](https://img.shields.io/badge/Live-2ea44f?style=flat-square) |
+| **[AI Evals CI/CD Pipeline](#)** | Automated LLM quality gates & hallucination checks on every PR | `TypeScript` `Promptfoo` `GitHub Actions` `Docker` | ![In Progress](https://img.shields.io/badge/In%20Progress-yellow?style=flat-square) |
+| **[Self-Healing E2E + MCP](#)** | Playwright suite with AI selector recovery & MCP tool automation | `Playwright` `TypeScript` `MCP SDK` `Allure` | ![Planned](https://img.shields.io/badge/Planned-blue?style=flat-square) |
+| **[Production RAG with GDPR Guardrails](#)** | Hybrid search architecture with vector DB, strict schemas & PII masking | `Next.js` `PostgreSQL (pgvector)` `Zod` `Redis` | ![Planned](https://img.shields.io/badge/Planned-blue?style=flat-square) |
+| **[API Performance & Load Lab](#)** | Load, stress & spike testing with p95/p99 bottleneck analysis | `K6` `Grafana` `Docker Compose` `Node.js` | ![Planned](https://img.shields.io/badge/Planned-blue?style=flat-square) |
+| **[AI Incident Analyzer (RCA)](#)** | Automated root-cause analysis linking telemetry, stack traces & GitHub commits | `OpenTelemetry` `Node.js` `GitHub API` `Docker` | ![Planned](https://img.shields.io/badge/Planned-blue?style=flat-square) |
 
 ---
 
