@@ -1,89 +1,86 @@
-<h1 align="center">Hi, I'm Matheus 👋</h1>
-<h3 align="center">SDET & QA Automation Engineer | AI Quality, Performance & DevOps</h3>
-
+<!-- Header Banner -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Relocation%20(Ireland%20%F0%9F%87%AE%F0%9F%87%AA)%20%26%20Remote%20%F0%9F%8C%8D-2ea44f?style=for-the-badge" alt="Open to Relocation and Remote" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=180&section=header&text=Matheus%20Rego&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=SDET%20%7C%20QA%20Automation%20%26%20Applied%20AI%20Engineer&descAlignY=62&descSize=16" width="100%" alt="Header Banner" />
 </p>
 
+<!-- Animated Tagline -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+AI-Driven+Quality+Engineering+%26+CI%2FCD+Pipelines;Playwright+%7C+Cypress+%7C+K6+%7C+AI+Evals+%7C+MCP+Agents;Open+to+Relocation+(Ireland+%F0%9F%87%AE%F0%9F%87%AA)+%26+Global+Remote+Roles" alt="Typing SVG" />
+</p>
+
+<!-- Quick Action Buttons -->
 <p align="center">
   <a href="https://linkedin.com/in/matheusdsr" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://matheusqa.tech" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:matheus2050@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Ireland%20%F0%9F%87%AE%F0%9F%87%AA%20%26%20Remote-2EA44F?style=for-the-badge" alt="Status" />
+</p>
+
+<br/>
+
+<!-- 2-Column Overview -->
+<table>
+  <tr>
+    <td width="58%" valign="top">
+      <h3>👨‍💻 Engineering Profile</h3>
+      <p>
+        Software Quality Engineer (SDET) with <strong>5+ years of experience</strong> designing scalable test automation frameworks, API &amp; performance suites, and CI/CD quality gates for enterprise ERP and SaaS products.
+      </p>
+      <p>
+        Currently specializing in <strong>Applied AI for Quality Engineering</strong> — bringing deterministic testing rigor (LLM Evals, MCP agents, guardrails, and observability) to production AI systems.
+      </p>
+    </td>
+    <td width="42%" valign="top">
+      <h3>⚡ Quick Facts</h3>
+      <ul>
+        <li>🎯 <strong>Target:</strong> SDET / QA Automation (Ireland &amp; Remote)</li>
+        <li>🎓 <strong>Degree:</strong> B.Sc. Information Systems + Postgrad in QA Engineering</li>
+        <li>🧪 <strong>Focus:</strong> E2E, API, Load Testing (K6) &amp; AI Evals</li>
+        <li>🐳 <strong>Workflow:</strong> Linux, Docker, GitHub Actions, OpenTelemetry</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Core Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nextjs,cypress,selenium,jest,postman,postgres,mongodb,docker,githubactions,jenkins,grafana,linux,git&perline=8&theme=dark" alt="Tech Stack" />
+</p>
+
+<p align="center">
+  <code>Playwright</code> • <code>K6 Load Testing</code> • <code>Promptfoo (AI Evals)</code> • <code>MCP SDK</code> • <code>OpenTelemetry</code> • <code>Oracle SQL</code>
 </p>
 
 ---
 
-### 🚀 About Me
+### 🚀 Featured Engineering Projects
 
-Software Quality Engineer (SDET) with **5+ years of experience** building scalable test automation frameworks, CI/CD quality gates, and performance testing suites for enterprise ERP and SaaS platforms. Currently focused on **Applied AI for Quality Engineering** — integrating LLM Evals, MCP Agents, and observability into modern delivery pipelines.
-
-- 🎓 **Education:** B.Sc. in Information Systems & Postgraduate Degree in Software Quality and Testing Engineering.
-- 🧪 **Core Focus:** Shift-left testing, E2E & API automation, load testing (K6), and AI-driven quality assurance.
-- 🐳 **Engineering Mindset:** Everything containerized, automated in CI/CD, and backed by real observability metrics.
-- 🌍 **Availability:** Actively targeting **Critical Skills roles in Ireland** and **global remote opportunities**.
-
----
-
-### 🛠️ Tech Stack
-
-**Test Automation & Quality**
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![K6](https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-**AI Engineering & Observability**
-![Promptfoo](https://img.shields.io/badge/AI%20Evals-Promptfoo-blueviolet?style=flat-square)
-![MCP](https://img.shields.io/badge/Agentic%20AI-MCP-000000?style=flat-square)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-
-**Languages & Backend**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
-
-**DevOps & Infrastructure**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+| Project | What It Solves | Stack | Status |
+| :--- | :--- | :--- | :---: |
+| **[AI Evals CI/CD Pipeline](#)** | Automated LLM quality gates & hallucination checks on every PR | `TypeScript` `Promptfoo` `GitHub Actions` | ![In Progress](https://img.shields.io/badge/In%20Progress-yellow?style=flat-square) |
+| **[Self-Healing E2E + MCP](#)** | Playwright suite with AI selector recovery & MCP tool automation | `Playwright` `TypeScript` `MCP` `Docker` | ![Planned](https://img.shields.io/badge/Next-blue?style=flat-square) |
+| **[API Performance Lab](#)** | Load, stress & spike testing with p95/p99 bottleneck analysis | `K6` `Grafana` `Node.js` `Docker` | ![Planned](https://img.shields.io/badge/Next-blue?style=flat-square) |
+| **[RevenuePro Backend](https://github.com/MatheusDosSantosR/RevenuePro-Backend)** | Backend architecture and automated API validation | `Node.js` `TypeScript` `Express` | ![Live](https://img.shields.io/badge/Live-2ea44f?style=flat-square) |
 
 ---
 
-### 📌 Featured Engineering Projects
-
-*(Update the links below as you publish each repository)*
-
-| Project | Focus | Tech Stack |
-| :--- | :--- | :--- |
-| **[AI Evals CI/CD Pipeline](#)** *(Coming Soon)* | Automated LLM quality gates & hallucination checks on PRs | TypeScript, Promptfoo, GitHub Actions, Docker |
-| **[Self-Healing E2E + MCP](#)** *(Coming Soon)* | AI-assisted Playwright framework with MCP tool integration | Playwright, TypeScript, MCP SDK, Allure |
-| **[API Performance Lab](#)** *(Coming Soon)* | Load, stress & spike testing with p95/p99 bottleneck analysis | K6, Grafana, Docker Compose, Node.js |
-| **[RevenuePro Backend](https://github.com/MatheusDosSantosR/RevenuePro-Backend)** | Backend architecture and automated API validation | Node.js, TypeScript, Express |
-
----
-
-### 📊 GitHub Activity
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=matheusdossantosr&show_icons=true&theme=github_dark&hide_border=true&locale=en" alt="Matheus GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdossantosr&layout=compact&theme=github_dark&hide_border=true&locale=en" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=matheusdossantosr&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&locale=en" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdossantosr&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&locale=en" alt="Top Languages" />
 </p>
 
+<!-- Footer Banner -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheusdossantosr&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:161b22,100:0d1117&height=90&section=footer" width="100%" alt="Footer Banner" />
 </p>
